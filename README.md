@@ -28,7 +28,8 @@
 ### FIVEM
 
 - ⚙️ I also do missions for people on Fivem
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[discord]: https://discord.gg/HQgfNzW
+<p>
+<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="AdemoShops" height="20" width="20" 
+</p>
                                                        
-                                                  
+                                                 
