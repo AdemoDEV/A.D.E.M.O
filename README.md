@@ -1,6 +1,6 @@
 <h1>Hi I'm ademo 👊 </h1>
 
-### Ademo :
+### Ademo 
 
 - 🧠 I am still a student 
 - 💪 I am part of the l'acdn
@@ -18,7 +18,7 @@
   
 </details>
 
-### ⌨️ What I know about programming :
+### What I know about programming 
 
 <a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png alt="tools Visual Studio Code" width="26" /></a>
 <a href=https://discord.gg/G2Ff3et target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png alt="languages HTML5"  width="26" /></a>
