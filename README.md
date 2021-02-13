@@ -30,9 +30,10 @@
 <a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png alt="languages Node.js"  width="26" /></a>
 <a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png alt="languages Sass"  width="26" /></a>
 
-### Language learning
+### Language learning AND TOOL
 
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png  alt="languages C++"  width="26" /></a>
+- ⚙️ C++
+- ⚙️ Unreal Engine
 
 
 
