@@ -32,8 +32,8 @@
 
 ### Language learning AND TOOL
 
-- ⚙️ C++
-- ⚙️ Unreal Engine
+- C++
+- Unreal Engine
 
 
 
