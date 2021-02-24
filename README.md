@@ -3,7 +3,6 @@
 ### Ademo 
 
 - 🧠 I am still a student 
-- 💪 I am part of the l'acdn
 
 <br/>
 
